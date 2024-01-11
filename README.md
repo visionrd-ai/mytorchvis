@@ -21,5 +21,5 @@ vis_graph(model, model_input, all_layers=True, save=True, scale=2)
 ```
 <div align="center">
   <p>
-      <img width="100%" src="ResNet.png"></a>
+      <img width="50%" src="ResNet.png"></a>
   </p>

@@ -34,6 +34,7 @@ MyTorchvis Library to Visulaize Pytorch models. It is useful for quickly visuali
 
 ## <div align="center">Installation</div>
 ```bash
+git clone git@github.com:visionrd-ai/mytorchvis.git
 sudo apt-get graphviz
 python setup.py install
 ```
